@@ -1,0 +1,47 @@
+body {
+    background-color: #0b3f4b;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.banner {
+    max-width: 975px;
+    margin-left: auto;
+    margin-right: auto;
+}
+section {
+    width: 975px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2f8186;
+}
+h1 {
+    font-family: monospace;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 10px;
+    color: white;
+}
+.iframe-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+.eventes {
+    font-size: 30px;
+    font-family: monospace;
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 100px;
+}
+footer {
+    font-family: monospace;
+    text-align: center;
+    background-color: #0c2628;
+    padding: 25px;
+}
